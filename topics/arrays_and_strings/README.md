@@ -1,7 +1,7 @@
-# Cracking the Coding Interview
+# Arrays and Strings
 
-- [Cracking the Coding Interview](#cracking-the-coding-interview)
-  - [Arrays and Strings](#arrays-and-strings)
+- [Arrays and Strings](#arrays-and-strings)
+  - [Arrays and Strings](#arrays-and-strings-1)
     - [Is Unique](#is-unique)
       - [Q. Implement an algorithm to determine if a string has all unique characters. What is you cannot use additional data structures?](#q-implement-an-algorithm-to-determine-if-a-string-has-all-unique-characters-what-is-you-cannot-use-additional-data-structures)
     - [Check Permutation](#check-permutation)
